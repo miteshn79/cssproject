@@ -1,0 +1,30 @@
+html {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', sans-serif;
+    text-align: center;
+}
+
+.container {
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.motivation-image {
+    width: 100%;
+    border: 5px solid white;
+}
+.main-heading {
+    text-align: center;
+}
+
+.sub-heading {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
